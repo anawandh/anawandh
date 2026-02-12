@@ -1,13 +1,17 @@
 # 💫 About Me:
 ## Hi there 👋
-I'm a Computer Science student at Purdue University with a passion for using technology to solve real-world problems. I gained hands-on experience during my internship at ModalAI, where I optimized testing environments, automated processes using Node.js, and contributed to system migration. My skills include Docker, Python, and embedded systems.
+I'm a Computer Science student at Purdue University with a passion for using technology to solve real-world problems. I gained hands-on experience during my internship at Intel and ModalAI, where I optimized testing environments, automated processes using Node.js, and contributed to system migration. My skills include Docker, Python, Java, C and embedded systems.
 
-I've also built personal projects like Spotify Del Norte, a playlist collaboration platform using Java, JavaScript, and AWS, and a stock prediction tool leveraging LSTM and the Yahoo Finance API. Outside tech, I'm involved in leadership and community activities through DECA, soccer, and Legacy Youth Leadership.
+I've also built personal projects like Spotify Del Norte, a playlist collaboration platform using Java, JavaScript, and AWS, and a stock prediction tool leveraging LSTM and the Yahoo Finance API, along with AWS RDS. Outside of tech, I'm involved in leadership through IEEE ROV (remotely operated vehicle), where I am the software lead.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-nawandhar) 
 
 ## 🔭 Projects
+- IEEE ROV
+  - [IEEE ROV ORG](https://github.com/purduerov)
+  - [IEEE ROV Surface/frontend](https://github.com/purduerov/X18-Surface)
+  - [IEEE ROV Core/Backend](https://github.com/purduerov/X17-Core)
 - Investopedia Clone
   - [Backend](https://github.com/CSA-AI/CSA_AI_Backend)
   - [Frontend](https://github.com/CSA-AI/CSA_AI_Frontend)
