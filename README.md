@@ -5,6 +5,8 @@ I'm a Computer Science student at Purdue University with a passion for using tec
 I've also built personal projects like Spotify Del Norte, a playlist collaboration platform using Java, JavaScript, and AWS, and a stock prediction tool leveraging LSTM and the Yahoo Finance API, along with AWS RDS. Outside of tech, I'm involved in leadership through IEEE ROV (remotely operated vehicle), where I am the software lead.
 
 ## 🌐 Socials:
+[Personal Website](https://anawandh.github.io/portfolio/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-nawandhar) 
 
 ## 🔭 Projects
